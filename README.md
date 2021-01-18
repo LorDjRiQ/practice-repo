@@ -1,3 +1,3 @@
-#Practice Git and GitHub
+# Practice Git and GitHub
 
-Learn basics Git and GitHub
+Learn basics Git and GitHub.
